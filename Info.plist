@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.2.0</string>
+	<string>0.2.1</string>
 	<key>CFBundleVersion</key>
-	<string>0.2.0</string>
+	<string>0.2.1</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Database Quota</key>
@@ -58,6 +58,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.githubusercontent.com/zats/GitHubPR.safariextension/master/Update.plist</string>
 	<key>Website</key>
 	<string>https://github.com/zats/GitHubPR.safariextension</string>
 </dict>
