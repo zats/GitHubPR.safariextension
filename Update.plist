@@ -10,11 +10,11 @@
 			<key>Developer Identifier</key>
 			<string>5KE88HWMKJ</string>
 			<key>CFBundleVersion</key>
-			<string>0.2.0</string>
+			<string>0.2.2</string>
 			<key>CFBundleShortVersionString</key>
-			<string>0.2.0</string>
+			<string>0.2.2</string>
 			<key>URL</key>
-			<string>https://github.com/zats/GitHubPR.safariextension/releases/download/0.2.0/GitHubPR.safariextz</string>
+			<string>https://github.com/zats/GitHubPR.safariextension/releases/download/0.2.2/GitHubPR.safariextz</string>
 		</dict>
 	</array>
 </dict>
