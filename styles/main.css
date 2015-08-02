@@ -1,0 +1,12 @@
+.github-pr-code-reviewed {
+	display: none;
+}
+.github-pr-link-mark-as-reviewed {
+	color: #55a532 !important;
+}
+.github-pr-toc-reviewed {
+	color: #ddd !important;
+}
+.github-pr-custom-stats {
+
+}
