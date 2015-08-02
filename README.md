@@ -6,10 +6,13 @@
 
 See the releases page for the latest extension
 
-Known Issues:
+[![](https://raw.githubusercontent.com/zats/GitHubPR.safariextension/master/readme/screenshot.png)](https://www.youtube.com/watch?v=gXihy4QXhQg)
 
-* Extension stops working when you switch between Unified & Split views, or Refresh pull request.
+# Known Issues:
+
+* Extension stops working when you switch between Unified & Split views
+* Extension stop working or Refresh pull request.
 
 Workaround: simply reload the page.
 
-[![](https://raw.githubusercontent.com/zats/GitHubPR.safariextension/master/readme/screenshot.png)](https://www.youtube.com/watch?v=gXihy4QXhQg)
+* Hashing of the changes is not effeceient, uses a lot of local storage.
