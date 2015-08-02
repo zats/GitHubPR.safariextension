@@ -20,8 +20,6 @@
 	<dict>
 		<key>Database Quota</key>
 		<integer>1048576</integer>
-		<key>Global Page</key>
-		<string>global.html</string>
 	</dict>
 	<key>Content</key>
 	<dict>
@@ -58,5 +56,7 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/zats/GitHubPR.safariextension</string>
 </dict>
 </plist>
