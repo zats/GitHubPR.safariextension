@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Updates</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.zats.github-pr</string>
+			<key>Developer Identifier</key>
+			<string>5KE88HWMKJ</string>
+			<key>CFBundleVersion</key>
+			<string>0.2.0</string>
+			<key>CFBundleShortVersionString</key>
+			<string>0.2.0</string>
+			<key>URL</key>
+			<string>https://github.com/zats/GitHubPR.safariextension/releases/download/0.2.0/GitHubPR.safariextz</string>
+		</dict>
+	</array>
+</dict>
+</plist>
